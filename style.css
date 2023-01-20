@@ -267,7 +267,7 @@ header a {
     display: grid;
     text-align: left;
     justify-content: center;
-    margin-left: 10px;
+    margin-left: 5px;
     margin-right: 5px;
   }
 
@@ -410,7 +410,7 @@ header a {
   }
 
   #about {
-    color: #9390ff;
+    color: white;
     font-weight: 400;
     font-size: 1.6rem;
   }

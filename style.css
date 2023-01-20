@@ -13,7 +13,7 @@ a {
 }
 
 body {
-  background-color: #191765;
+  background-color: #285f12;
   color: white;
   font-family: 'Roboto', sans-serif;
   width: 100%;
@@ -119,27 +119,27 @@ header a {
   }
 
   #portfolio {
-    background-image: url('images/ball.png'), url('images/ball.png');
-    background-size: 226px 226px, 184px 184px;
-    background-position: left -140px top 0, right -120px top 480px;
+    background-image: url('images/tennis2.png'), url('images/tennis2.png');
+    background-size: 166px 166px, 164px 164px;
+    background-position: left -40px top 0, right -110px top 480px;
     background-repeat: no-repeat, no-repeat;
   }
 
   .name {
-    color: #9390ff;
-    font-weight: 700;
-    font-size: 2.2rem;
+    color: white;
+    font-weight: 800;
+    font-size: 2.3rem;
     line-height: 105px;
     text-align: center;
   }
 
   .profession {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 1.5rem;
     line-height: 47px;
     text-align: center;
     margin-left: 8px;
-    color: #efe1e6;
+    color: white
   }
 
   p {
@@ -147,7 +147,7 @@ header a {
     max-width: 100%;
     padding-left: 5%;
     padding-right: 5%;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     padding-top: 15%;
     font-size: 1rem;
     color: #c8c8d4;
@@ -200,7 +200,7 @@ header a {
   }
 
   .container-WorkSocial h6 {
-    color: #a2a3ae;
+    color: white;
     padding: 0;
     font-size: 1rem;
     font-weight: lighter;
@@ -236,7 +236,7 @@ header a {
   }
 
   .features h4 {
-    color: #9390ff;
+    color: white
   }
 
   .features ul {
@@ -266,7 +266,7 @@ header a {
   }
 
   #works h2 {
-    color: #9390ff;
+    color: white;
     margin-bottom: 15px;
     font-size: 2.3rem;
     padding: 0 0 30px 0;
@@ -629,7 +629,7 @@ header a {
   }
 
   #portfolio {
-    background-image: url('images/ball.png'), url('images/ball.png');
+    background-image: url('images/tennis2.png'), url('images/tennis2.png');
     background-size: 184px 184px, 226px 226px;
     background-position: left 20px top 100px, right 20px top 350px;
     background-repeat: no-repeat, no-repeat;
@@ -996,7 +996,7 @@ header a {
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-image: url('images/ball.png'), url('images/ball.png');
+    background-image: url('images/tennis2.png'), url('images/tennis2.png');
     background-size: 184px 184px, 226px 226px;
     background-position: left 20px top 100px, right 20px top 350px;
     background-repeat: no-repeat, no-repeat;

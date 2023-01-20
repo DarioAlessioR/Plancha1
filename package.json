@@ -7,7 +7,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.2.0",
     "eslint-plugin-promise": "^6.0.0",
-    "hint": "^6.1.11",
+    "hint": "^6.2.0",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
@@ -556,7 +556,8 @@
     "zwitch": "^1.0.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webhint": "hint http://localhost:8080"
   },
   "repository": {
     "type": "git",

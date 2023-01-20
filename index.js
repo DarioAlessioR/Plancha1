@@ -105,7 +105,7 @@ function validate() {
 
 const counterContainer = document.querySelector('.website-counter');
 const resetButton = document.querySelector('#reset');
-const visitCount = localStorage.getItem('page_view');
+let visitCount = localStorage.getItem('page_view');
 
 // Check if page_view entry is present
 if (visitCount) {
